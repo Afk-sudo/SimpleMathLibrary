@@ -22,7 +22,7 @@
 ## API.
 Все методы представленные в библиотеке являются статичными. К методам 
 
-- double **Add**(double a, double b)** - складывает два числа
+- double **Add(double a, double b)** - складывает два числа
 
 - double **Subtract(double a, double b)** - вычитает второе число из первого, возвращаемый тип double
 
